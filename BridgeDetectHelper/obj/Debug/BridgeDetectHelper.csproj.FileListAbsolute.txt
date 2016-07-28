@@ -1,0 +1,512 @@
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\ProjectMgrPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\ProjectMgrPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BridgeDetectHelper-BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\ProjectMgrPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\App.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\ProjectMgrPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0711\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\App.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(3)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(3)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(3)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ButtonStyleResources.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ComboBoxStyleResources.baml
+D:\md_bdh\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\md_bdh\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\md_bdh\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ButtonStyleResources.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ComboBoxStyleResources.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(1)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\AddBridgeWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeMgrMainPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\App.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\AddBridgeWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeMgrMainPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\ButtonStyleResources.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\ComboBoxStyleResources.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\NormalContralStyleResources.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\OfficeTab.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddBridgeWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeMgrMainPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\XamlDemo.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\App.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddBridgeWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\AddProjectWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BdhPictureEditor.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeMgrMainPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ButtonStyleResources.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ComboBoxStyleResources.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\DesignerItem.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\DiseaseCountPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NormalContralStyleResources.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\LoginWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\MyWindowTitleBar.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NewUserWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\NoExistsNumImageWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\ResizeRotateChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Controls\SizeChrome.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\PictureLayoutEditWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\ProjectMgrMainPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\SystemMgrPage.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache

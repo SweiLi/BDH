@@ -1,0 +1,69 @@
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe.config
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.g.resources
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\bin\Debug\BdhConfEditor.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\bin\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\bin\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BdhConfEditor\obj\Debug\BdhConfEditor.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\bin\Debug\BdhConfEditor.exe.config
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\bin\Debug\BdhConfEditor.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\bin\Debug\BdhConfEditor.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.g.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.exe
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BdhConfEditor\obj\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe.config
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\bin\Debug\BdhConfEditor.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\App.g.cs
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor_MarkupCompile.lref
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\MainWindow.baml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.g.resources
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.Properties.Resources.resources
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.csproj.GenerateResource.Cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.exe
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BdhConfEditor\obj\Debug\BdhConfEditor.pdb

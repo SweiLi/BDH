@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<database><sqlserver>Server=.;database=md_scht;uid=sa;pwd=sql_pass813;</sqlserver>
+<sqlite>Data Source=bdh_local.db3;</sqlite><default>sqlite</default></database>
+<log><table>mdtbl_log</table><text>log</text></log>
+</config>

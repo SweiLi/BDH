@@ -1,0 +1,49 @@
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\bin\Debug\Microsoft.Build.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\obj\Debug\BDH.MdHelper.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\obj\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\MdHelper\obj\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\obj\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\obj\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\MdHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\obj\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\MdHelper\obj\Debug\MdHelper.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\MdHelper.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\MdHelper.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\BDH.Config.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\Microsoft.Build.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\bin\Debug\BDH.Config.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\obj\Debug\MdHelper.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\MdHelper\obj\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\Microsoft.Build.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\MdHelper.pdb

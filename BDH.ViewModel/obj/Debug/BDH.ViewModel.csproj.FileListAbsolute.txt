@@ -1,0 +1,148 @@
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0711\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(2)\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0718\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Config.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.IView.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Log.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\MdHelper.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\MdHelper.pdb
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+E:\01-Projects\04-华腾公路检测项目\09-CurrentCode\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\MdHelper.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\MdHelper.pdb
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.ViewModel.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.IView.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Manage.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.dll
+D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.ViewModel\obj\Debug\BDH.ViewModel.pdb

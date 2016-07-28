@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<config>
+	<database>
+		<sqlserver><![CDATA[Server=.;database=test;uid=sa;pwd=zaza]]></sqlserver>
+		<sqlite><![CDATA[]]></sqlite>
+	</database>
+	<log>
+		<table><![CDATA[]]></table>
+		<text><![CDATA[]]></text>
+	</log>
+</config>
