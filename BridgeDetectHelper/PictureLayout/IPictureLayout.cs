@@ -8,6 +8,5 @@ namespace BridgeDetectHelper.PictureLayout
     public interface IPictureLayout
     {
         Grid CreateLayout(List<ImageSource> imgSrcList);
-        void SetImageStretch(Stretch sth);
     }
 }

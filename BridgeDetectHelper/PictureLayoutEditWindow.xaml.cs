@@ -31,15 +31,11 @@ namespace BridgeDetectHelper
         private int m_DefaultFontSize = 12;
         private Color m_DefaultFontColor = Colors.Black;
         private ContentControl m_SelectedShape;
-        private int m_ImgPatternIndx = 0;
 
         public PictureLayoutEditWindow()
         {
             InitializeComponent();
             this.SourceInitialized += new EventHandler(win_SourceInitialized);
-
-            cmbImgPattern.ItemsSource = new List<string>() { "原始比例", "全部填满" };
-            cmbImgPattern.SelectedIndex = 0;
             cmbFontSize.ItemsSource = new List<int>() { 10, 12, 14, 16, 18, 20 };
             cmbFontSize.SelectedIndex = 1;
             cmbColor.SelectedIndex = 7;
@@ -132,23 +128,6 @@ namespace BridgeDetectHelper
             **/
         }
 
-        private void Cmb_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            if (this.pic_layout != null)
-            {
-                string str = (string)e.AddedItems[0];
-                if (str.Equals("原始比例"))
-                    this.pic_layout.SetImageStretch(Stretch.Uniform);
-                else if (str.Equals("原始大小"))
-                    this.pic_layout.SetImageStretch(Stretch.None);
-                else if (str.Equals("全部填满"))
-                    this.pic_layout.SetImageStretch(Stretch.Fill);
-            }
-
-            var cmb = sender as ComboBox;
-            this.m_ImgPatternIndx = cmb.SelectedIndex;
-        }
-
         private Canvas m_AdornCanvas;
         private void ShowAdorner(ImageSource img_src)
         {
@@ -163,7 +142,7 @@ namespace BridgeDetectHelper
             bdrPicLay.Child = this.m_AdornCanvas;
             this.ShowAdornerTool();
         }
-        
+
         private void Btn_merge_Click(object sender, RoutedEventArgs e)
         {
             if (this.m_ImageGrid == null) return;
@@ -271,12 +250,12 @@ namespace BridgeDetectHelper
             //        }
             //    }
             //}
-            
+
         }
 
         private void BtnAdorn_Click(object sender, RoutedEventArgs e)
         {
-            
+
             Button btn = sender as Button;
             int ord_val = Convert.ToInt32(btn.Tag);
 
@@ -306,16 +285,25 @@ namespace BridgeDetectHelper
             {
                 cc.Width = 200;
                 cc.Height = 50;
-                Arrow line = new Arrow() { IsHitTestVisible = false, Stroke = Brushes.Red, StrokeThickness = 2,
-                    HeadHeight = 5, HeadWidth = 15, X1 = 0, Y1 = cc.Height/2,
-                    X2 = cc.Width, Y2 = cc.Height/2 };
+                Arrow line = new Arrow()
+                {
+                    IsHitTestVisible = false,
+                    Stroke = Brushes.Red,
+                    StrokeThickness = 2,
+                    HeadHeight = 5,
+                    HeadWidth = 15,
+                    X1 = 0,
+                    Y1 = cc.Height / 2,
+                    X2 = cc.Width,
+                    Y2 = cc.Height / 2
+                };
                 //Rectangle line = new Rectangle() { IsHitTestVisible = false, Stroke = Brushes.Red, StrokeThickness = 1, Height = 2 };
                 cc.Content = line;
-                
+
             }
             else if (ord_val == 3)
             {
-                TextBox txt = new TextBox() { IsHitTestVisible = false, Text="请输入文字..." };
+                TextBox txt = new TextBox() { IsHitTestVisible = false, Text = "请输入文字..." };
                 txt.FontSize = this.m_DefaultFontSize;
                 txt.Foreground = new SolidColorBrush(this.m_DefaultFontColor);
                 cc.Content = txt;
@@ -425,23 +413,16 @@ namespace BridgeDetectHelper
             foreach (string fp in img_files)
             {
                 var img_src = this.GetImageSource(fp);
-                
+
                 imgSrc_list.Add(img_src);
             }
 
             try
             {
                 this.m_ImageGrid = pic_layout.CreateLayout(imgSrc_list);
-                var ptn_str = (string)this.cmbImgPattern.SelectedItem;
-                if (ptn_str.Equals("原始比例"))
-                    this.pic_layout.SetImageStretch(Stretch.Uniform);
-                else if (ptn_str.Equals("原始大小"))
-                    this.pic_layout.SetImageStretch(Stretch.None);
-                else if (ptn_str.Equals("全部填满"))
-                    this.pic_layout.SetImageStretch(Stretch.Fill);
 
             }
-            catch(ArgumentException ex)
+            catch (ArgumentException ex)
             {
                 this.PopupMessage.ShowErrorMessage(ex.Message, "图片编辑");
                 return;
@@ -451,12 +432,11 @@ namespace BridgeDetectHelper
                 this.PopupMessage.ShowErrorMessage(ex.Message, "异常编辑");
                 return;
             }
-            
+
             bdrPicLay.Child = this.m_ImageGrid;
 
             this.ShowLayoutMergeTool();
             btnSaveImage.IsEnabled = false;
-            this.cmbImgPattern.SelectedIndex = this.m_ImgPatternIndx;
         }
 
         public void ShowImageListBox(List<string> img_files)
@@ -528,7 +508,7 @@ namespace BridgeDetectHelper
             img_src.BeginInit();
             img_src.StreamSource = ms;
             img_src.EndInit();
-            
+
             //Console.WriteLine(img_src.PixelWidth.ToString() + "--" + img_src.PixelHeight.ToString());
             return img_src;
         }

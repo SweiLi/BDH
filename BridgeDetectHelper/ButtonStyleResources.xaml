@@ -2,7 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:local="clr-namespace:BridgeDetectHelper">
     <!--用于确实执行功能的按钮-->
-    <Style x:Key="BtnFuncStyle" TargetType="{x:Type Button}">
+    <Style x:Key="btnFuncStyle" TargetType="{x:Type Button}">
         <Setter Property="Background" Value="#4DB1FC" />
         <!--背景颜色-->
         <Setter Property="Foreground" Value="White" />

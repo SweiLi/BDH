@@ -19,17 +19,6 @@ namespace BridgeDetectHelper.PictureLayout
         protected Point m_LastPoint;
         private List<Image> m_ImgList = new List<Image>();
 
-        public void SetImageStretch(Stretch sth)
-        {
-            this.m_CanFreeMove = sth == Stretch.Uniform ? false : true;
-            foreach (var img in this.m_ImgList)
-            {
-                img.Stretch = sth;
-                var cv = img.Parent as Canvas;
-                this.AutoLayoutUpdate(cv);
-            }
-        }
-
         private MemoryStream GetStream(ImageSource src)
         {
             PngBitmapEncoder encoder = new PngBitmapEncoder();
@@ -61,11 +50,11 @@ namespace BridgeDetectHelper.PictureLayout
         {
             Image img = sender as Image;
             var tmp = img.Source;
-            
+
             Image src_img = e.Data.GetData("image") as Image;
             img.Source = src_img.Source;
             if (e.Effects == DragDropEffects.Move)
-            src_img.Source = tmp;
+                src_img.Source = tmp;
 
             var cv_src = src_img.Parent as Canvas;
             Canvas.SetLeft(src_img, 0);
@@ -86,35 +75,36 @@ namespace BridgeDetectHelper.PictureLayout
 
             Image img = new Image();
             img.Margin = new Thickness(1);
-            img.Stretch = Stretch.Fill;
             img.MouseDown += img_MouseDown;
             img.Drop += img_Drop;
             img.AllowDrop = true;
-            img.Cursor = Cursors.Hand;
             img.Source = img_src;
             img.Width = img_src.PixelWidth;
             img.Height = img_src.PixelHeight;
             img.RenderTransform = groupform as Transform;
-            img.MouseWheel += Img_MouseWheel;
+            //img.MouseWheel += Img_MouseWheel;
             img.Tag = new Size(img_src.PixelWidth, img_src.PixelHeight);
-            
+
             this.m_ImgList.Add(img);
 
+            var cc = new ContentControl();
+            cc.Width = img_src.PixelWidth;
+            cc.Height = img_src.PixelHeight;
+            cc.Margin = new Thickness(2);
+            cc.Content = img;
+            cc.MouseRightButtonDown += Cc_MouseRightButtonDown;
+            cc.MouseRightButtonUp += Cc_MouseRightButtonUp;
+            cc.MouseMove += Cc_MouseMove;
+            cc.MouseWheel += Cc_MouseWheel;
+            cc.Tag = false;
+
             Canvas cv = new Canvas();
-            cv.Name = "cv";
-            cv.HorizontalAlignment = HorizontalAlignment.Stretch;
-            cv.VerticalAlignment = VerticalAlignment.Stretch;
-            //cv.Background = new SolidColorBrush(Colors.Green);
             cv.ClipToBounds = true;
-            cv.MouseMove += this.Canvas_MouseMove;
-            cv.MouseRightButtonUp += Canvas_MouseRightButtonUp;
-            cv.MouseLeftButtonUp += Canvas_MouseLeftButtonUp;
-
+            //cv.MouseMove += this.Canvas_MouseMove;
+            //cv.MouseRightButtonUp += Canvas_MouseRightButtonUp;
+            //cv.MouseLeftButtonUp += Canvas_MouseLeftButtonUp;
+            cv.Children.Add(cc);
             cv.SizeChanged += Cv_SizeChanged;
-
-            cv.Children.Add(img);
-            Canvas.SetLeft(img, 0);
-            Canvas.SetTop(img, 0);
 
             Border bdr = new Border();
             bdr.Child = cv;
@@ -122,10 +112,78 @@ namespace BridgeDetectHelper.PictureLayout
             return bdr;
         }
 
-        private void Img_MouseWheel(object sender, MouseWheelEventArgs e)
+        private void Cc_MouseMove(object sender, MouseEventArgs e)
         {
-            var img = sender as Image;
-            var cv = img.Parent as Canvas;
+            var cc = sender as ContentControl;
+            if (cc == null) return;
+
+            if (cc.IsMouseCaptured)
+            {
+                if (e.RightButton == MouseButtonState.Pressed)
+                {
+                    this.MoveImageShape(cc, e);
+                }
+            }
+        }
+
+        private void MoveImageShape(ContentControl cc, MouseEventArgs e)
+        {
+            var cv = cc.Parent as Canvas;
+            var img = cc.Content as Image;
+
+            var group = img.RenderTransform as TransformGroup;
+            var scaleform = group.Children[0] as ScaleTransform;
+            var transform = group.Children[1] as TranslateTransform;
+
+            var mp = e.GetPosition(cv);
+            double sc_x = cv.ActualWidth / img.Width;
+            double sc_y = cv.ActualHeight / img.Height;
+
+            var canFreeMoving = (bool)cc.Tag;
+
+            if (canFreeMoving)
+            {
+                transform.X -= this.m_LastPoint.X - mp.X;
+                transform.Y -= this.m_LastPoint.Y - mp.Y;
+            }
+            else
+            {
+                if (sc_x > sc_y)
+                {
+                    transform.Y -= this.m_LastPoint.Y - mp.Y;
+                }
+                else
+                    transform.X -= this.m_LastPoint.X - mp.X;
+            }
+
+            this.m_LastPoint = mp;
+        }
+
+        private void Cc_MouseRightButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            var cc = sender as ContentControl;
+            if (cc == null) return;
+
+            cc.Cursor = Cursors.Arrow;
+            cc.ReleaseMouseCapture();
+        }
+
+        private void Cc_MouseRightButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            var cc = sender as ContentControl;
+            if (cc == null) return;
+
+            var cv = cc.Parent as Canvas;
+            cc.Cursor = Cursors.Hand;
+            this.m_LastPoint = e.GetPosition(cv);
+            cc.CaptureMouse();
+        }
+
+        private void Cc_MouseWheel(object sender, MouseWheelEventArgs e)
+        {
+            var cc = sender as ContentControl;
+            var cv = cc.Parent as Canvas;
+            var img = cc.Content as Image;
 
             var point = e.GetPosition(cv);
             var group = img.RenderTransform as TransformGroup;
@@ -134,12 +192,16 @@ namespace BridgeDetectHelper.PictureLayout
             var scaleform = group.Children[0] as ScaleTransform;
             if (scaleform.ScaleX + delta < 0.1) return;
 
-            scaleform.CenterX = point.X;
-            scaleform.CenterY = point.Y;
-            scaleform.ScaleX += delta;
-            scaleform.ScaleY += delta;
+            double val = scaleform.ScaleX + delta;
+            if (val < 2 && val > 0.5)
+            {
+                scaleform.CenterX = point.X;
+                scaleform.CenterY = point.Y;
+                scaleform.ScaleX += delta;
+                scaleform.ScaleY += delta;
+            }
 
-            this.m_CanFreeMove = true;
+            cc.Tag = true;
         }
 
         private void Cv_SizeChanged(object sender, SizeChangedEventArgs e)
@@ -147,10 +209,26 @@ namespace BridgeDetectHelper.PictureLayout
             var cv = sender as Canvas;
             if (cv != null && cv.Children.Count > 0)
             {
-                this.AutoLayoutUpdate(cv);
+                var cc = cv.Children[0] as ContentControl;
+                var img = cc.Content as Image;
 
-                //Console.WriteLine("cv width=" + cv.ActualWidth.ToString() +
-                //    "; height=" + cv.ActualHeight.ToString());
+                double sc_x = cv.ActualWidth / img.Width;
+                double sc_y = cv.ActualHeight / img.Height;
+
+                var group = img.RenderTransform as TransformGroup;
+                var scaleform = group.Children[0] as ScaleTransform;
+                var transform = group.Children[1] as TranslateTransform;
+
+                if (sc_x > sc_y)
+                {
+                    scaleform.ScaleX = sc_x;
+                    scaleform.ScaleY = sc_x;
+                }
+                else
+                {
+                    scaleform.ScaleX = sc_y;
+                    scaleform.ScaleY = sc_y;
+                }
             }
         }
 
@@ -164,43 +242,47 @@ namespace BridgeDetectHelper.PictureLayout
 
             if (img.Stretch == Stretch.Uniform)
             {
-                double sc_x = cv.ActualWidth / img.ActualHeight;
-                double sc_y = cv.ActualHeight / img.ActualHeight;
+                double sc_x = img.Width / cv.ActualWidth;
+                double sc_y = img.Height / cv.ActualHeight;
 
-                if (img.Height > img.Width)
+                if (sc_x < sc_y)
                 {
-                    scaleform.ScaleX = sc_x;
-                    scaleform.ScaleY = sc_x;
+                    //scaleform.ScaleX = sc_x;
+                    //scaleform.ScaleY = sc_x;
+                    if (cv.ActualWidth > 0)
+                        img.Width = cv.ActualWidth;
                 }
                 else
                 {
-                    scaleform.ScaleX = sc_y;
-                    scaleform.ScaleY = sc_y;
+                    //scaleform.ScaleX = sc_y;
+                    //scaleform.ScaleY = sc_y;
+                    if (cv.ActualHeight > 0)
+                        img.Height = cv.ActualHeight;
                 }
 
                 transform.X = 0;
                 transform.Y = 0;
                 this.m_LastPoint = new Point(0, 0);
             }
-            else if (img.Stretch == Stretch.Fill)
-            {
-                img.Width = cv.ActualWidth;
-                img.Height = cv.ActualHeight;
-                scaleform.ScaleX = 1;
-                scaleform.ScaleY = 1;
-                transform.X = 0;
-                transform.Y = 0;
-            }
-            else if (img.Stretch == Stretch.None)
-            {
-                var wh = (Size)img.Tag;
-                img.Width = wh.Width;
-                img.Height = wh.Height;
-                scaleform.ScaleX = 1;
-                scaleform.ScaleY = 1;
-                transform.X = 0;
-                transform.Y = 0;
-            }
+            //else if (img.Stretch == Stretch.Fill)
+            //{
+            //    img.Width = cv.ActualWidth;
+            //    img.Height = cv.ActualHeight;
+            //    scaleform.ScaleX = 1;
+            //    scaleform.ScaleY = 1;
+            //    transform.X = 0;
+            //    transform.Y = 0;
+            //}
+            //else if (img.Stretch == Stretch.None)
+            //{
+            //    var wh = (Size)img.Tag;
+            //    img.Width = wh.Width;
+            //    img.Height = wh.Height;
+            //    scaleform.ScaleX = 1;
+            //    scaleform.ScaleY = 1;
+            //    transform.X = 0;
+            //    transform.Y = 0;
+            //}
 
             Canvas.SetLeft(img, 0);
             Canvas.SetTop(img, 0);
@@ -229,6 +311,9 @@ namespace BridgeDetectHelper.PictureLayout
                     double nl = Canvas.GetLeft(img) + x;
                     double ny = Canvas.GetTop(img) + y;
 
+                    double sc_x = img.Width / cv.ActualWidth;
+                    double sc_y = img.Height / cv.ActualHeight;
+
                     if (this.m_CanFreeMove)
                     {
                         Canvas.SetTop(img, ny);
@@ -236,10 +321,10 @@ namespace BridgeDetectHelper.PictureLayout
                     }
                     else
                     {
-                        if (img.Height > img.Width) Canvas.SetTop(img, ny);
+                        if (img.Width == cv.ActualWidth) Canvas.SetTop(img, ny);
                         else Canvas.SetLeft(img, nl);
                     }
-                    
+
                     this.m_LastPoint = e.GetPosition(null);
                 }
             }
