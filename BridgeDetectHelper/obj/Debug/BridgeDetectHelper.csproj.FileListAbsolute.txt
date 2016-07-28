@@ -510,3 +510,6 @@ D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetect
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+E:\08 BDH\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+E:\08 BDH\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+E:\08 BDH\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb

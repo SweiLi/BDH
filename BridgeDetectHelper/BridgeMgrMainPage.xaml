@@ -77,7 +77,7 @@
         <ListView  ItemsSource="{Binding ChildBridgeCollection}" Grid.Row="2">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="桥梁编号"  DisplayMemberBinding="{Binding Id}"  Width="200" />
+                    <GridViewColumn Header="桥梁编号"  DisplayMemberBinding="{Binding Id}"  Width="150" />
                     <GridViewColumn Header="桥梁名称"  DisplayMemberBinding="{Binding Name}" Width="200"/>
                     <GridViewColumn Header="桥梁桩号"  DisplayMemberBinding="{Binding PileId}" Width="200"/>
                     <GridViewColumn Header="桥梁类型"  DisplayMemberBinding="{Binding TypeId}"  Width="200"/>
