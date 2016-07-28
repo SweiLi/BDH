@@ -79,6 +79,14 @@ namespace BDH.Manage
             return sql_helper.ExecuteNonQuery(sqlCon);
         }
 
+        public static bool ExistsBridge(string bridgeId)
+        {
+            string sql = string.Format("select count(*) from mdtbl_bridge_xzsb where bri_id='{0}'", bridgeId);
+            int count = SqlHelperFactory.GetDefaultSqlHelper().ExecuteInt32(sql);
+
+            return count > 0;
+        }
+
         #endregion 桥梁管理部分
 
         #region 子桥梁管理部分
@@ -157,17 +165,23 @@ namespace BDH.Manage
             ISqlHelper sql_helper = SqlHelperFactory.GetDefaultSqlHelper();
             return sql_helper.ExecuteNonQuery(sql);
         }
+
+        public static bool DeleteChildBridge(string childBridgeId)
+        {
+            string sql = string.Format("delete mdtbl_bridge_children where " +
+                "bridge_children_id='{0}'", childBridgeId);
+            int count = SqlHelperFactory.GetDefaultSqlHelper().ExecuteNonQuery(sql);
+
+            return count > 0;
+        }
         #endregion 子桥梁管理部分
 
         public static List<BridgeType> GetBridgeTypes()
         {
-            var bt_list = new List<BridgeType>();
-            var bt0 = new BridgeType() { Id = "QL0001", Name = "梁式桥" };
-            var bt1 = new BridgeType() { Id = "QL002", Name = "拉索桥" };
-            bt_list.Add(bt0);
-            bt_list.Add(bt1);
-
-            return bt_list;
+            string sql = "select * from mdtbl_bridge_type";
+            ISqlHelper sql_helper = SqlHelperFactory.GetDefaultSqlHelper();
+            return (MdDataTableHelper<BridgeType>.ConvertToModel(
+                sql_helper.ExecuteDataTable(sql))).ToList<BridgeType>();
         }
     }
 }

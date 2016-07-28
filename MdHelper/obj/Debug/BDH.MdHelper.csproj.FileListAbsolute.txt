@@ -47,3 +47,13 @@ D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\bin\Debu
 D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\MdHelper.dll
 D:\Documents\Visual Studio 2015\Projects\BridgeDetectHelper(5)\MdHelper\obj\Debug\MdHelper.pdb
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\MdHelper.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\MdHelper.pdb
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\Microsoft.Build.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\MdHelper.dll
+D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\MdHelper.pdb

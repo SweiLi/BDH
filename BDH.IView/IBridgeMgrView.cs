@@ -10,5 +10,6 @@ namespace BDH.IView
     public  interface IBridgeMgrView : IViewBase
     {
          ChildBridge GetNewChildBridge();
+        ChildBridge GetEditedChildBridge(ChildBridge child);
     }
 }

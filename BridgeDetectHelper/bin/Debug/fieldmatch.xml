@@ -45,7 +45,11 @@
 		<item field="bridge_children_name" fieldtype="string" property="Name" propertytype="string"/>
 		<item field="bridge_children_discribe" fieldtype="string" property="Description" propertytype="string"/>
 		<item field="bridge_pile" fieldtype="string" property="PileId" propertytype="string"/>
-		
+	</match>
+	<match tblname="mdtbl_bridge_type" objname="BridgeType">
+		<item field="type_id" fieldtype="string" property="Id" propertytype="string"/>
+		<item field="type_name" fieldtype="string" property="Name" propertytype="string"/>
+		<item field="type_describe" fieldtype="string" property="Description" propertytype="string"/>
 	</match>
 </config>
 

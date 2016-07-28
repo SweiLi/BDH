@@ -50,5 +50,17 @@ namespace BridgeDetectHelper
 
             return null;
         }
+
+        public ChildBridge GetEditedChildBridge(ChildBridge child)
+        {
+            AddBridgeWindow abw = new AddBridgeWindow(child);
+            abw.Owner = Window.GetWindow(this);
+            if (abw.ShowDialog().Value)
+            {
+                return abw.NewChildBridge;
+            }
+
+            return null;
+        }
     }
 }

@@ -29,6 +29,13 @@ namespace BridgeDetectHelper
             this.DataContext = new AddBridgeViewModel(this);
         }
 
+        public AddBridgeWindow(ChildBridge child)
+        {
+            InitializeComponent();
+            this.m_PopupMsg = new PopupMessage();
+            this.DataContext = new AddBridgeViewModel(this, child);
+        }
+
         public ChildBridge NewChildBridge { get; set; }
 
         private IPopupMessage m_PopupMsg;

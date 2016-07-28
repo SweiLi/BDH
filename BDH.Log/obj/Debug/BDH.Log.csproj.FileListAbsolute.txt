@@ -86,3 +86,14 @@ D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetect
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.Log\obj\Debug\BDH.Log.csprojResolveAssemblyReference.cache
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.Log\obj\Debug\BDH.Log.dll
 D:\桥梁检测助手\BridgeDetectHelper0726\BridgeDetectHelper0724\BridgeDetectHelper\BDH.Log\obj\Debug\BDH.Log.pdb
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Log.dll
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Log.pdb
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Config.dll
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Sql.dll
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\System.Data.SQLite.dll
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Config.pdb
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\BDH.Sql.pdb
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\bin\Debug\System.Data.SQLite.xml
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\obj\Debug\BDH.Log.csprojResolveAssemblyReference.cache
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\obj\Debug\BDH.Log.dll
+D:\桥梁检测助手\Source\Repos\BDH\BDH.Log\obj\Debug\BDH.Log.pdb

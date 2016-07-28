@@ -28,7 +28,22 @@ namespace BDH.ViewModel
             this.BridgeId = BridgeSystemManage.CreateChildBridgeId();
         }
 
-        
+        public AddBridgeViewModel(IAddBridgeView view, ChildBridge child) : this(view)
+        {
+            this.WindowTitle = "编辑桥梁";
+            this.BridgeId = child.Id;
+            this.BridgeName = child.Name;
+            this.BridgePile = child.PileId;
+            this.BridgeType = this.BridgeTypeCollection.First((p) => p.Id.Equals(child.TypeId));
+        }
+
+        private string m_WinTitle;
+        public string WindowTitle
+        {
+            get { return this.m_WinTitle; }
+            set { this.m_WinTitle = value; this.OnPropertyChanged(nameof(WindowTitle)); }
+        }
+
         /// <summary>
         /// View返回桥梁名称和桥梁ID
         /// </summary>
