@@ -90,8 +90,9 @@
             <Setter Property="VerticalAlignment" Value="Bottom" />
         </Style>
     </Page.Resources>
-    <Grid>
+    <Grid >
         <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
     </Grid>
