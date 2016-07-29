@@ -581,3 +581,6 @@ D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\obj\Debug\Themes\Gener
 D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
 D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
 D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+E:\08-BDHDW\BridgeDetectHelper\bin\Debug\BridgeDetectHelper.exe.config
+E:\08-BDHDW\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.exe
+E:\08-BDHDW\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.pdb
