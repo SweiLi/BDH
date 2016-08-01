@@ -29,8 +29,8 @@ namespace BridgeDetectHelper
             this.SourceInitialized += new EventHandler(win_SourceInitialized);
             
             Frame frm = new Frame();
-            tabRptFrame.Content = frm;
-            tabRptFrame.IsSelected = true;
+            tabSysMgr.Content = frm;
+            tabSysMgr.IsSelected = true;
         }
 
         private void tabMain_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -55,7 +55,10 @@ namespace BridgeDetectHelper
                     case "tabHdlPic":
                         frm.Content = new DiseaseCountPage();
                         break;
-                    
+                    case "tabRptFrame":
+                        frm.Content = new PicsMgrMainPage();
+                        break;
+
                 }
             }
         }
