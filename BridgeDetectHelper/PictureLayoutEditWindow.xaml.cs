@@ -160,45 +160,7 @@ namespace BridgeDetectHelper
         {
             spLay.Visibility = Visibility.Collapsed;
             spAdorner.Visibility = Visibility.Visible;
-            /*
-            StackPanel sp = new StackPanel();
-            sp.Orientation = Orientation.Horizontal;
-            sp.Height = 30;
-            
-            for (int i=0; i<4; i++)
-            {
-                Button btn = new Button();
-                btn.Style = Application.Current.FindResource("btnPicLayoutStyle") as Style;
-                btn.Width = 28;
-                btn.Height = 28;
-                btn.Margin = new Thickness(5, 0, 5, 0);
-                btn.Tag = i;
-                btn.Click += BtnAdorn_Click;
 
-                Image img = new Image();
-                img.Width = 24;
-                img.Height = 24;
-                BitmapImage bi = new BitmapImage();
-                bi.BeginInit();
-                bi.UriSource = new Uri(string.Format("PicToolIcons/{0}.png", i), UriKind.Relative);
-                bi.EndInit();
-                img.Source = bi;
-                btn.Content = img;
-
-                sp.Children.Add(btn);
-            }
-
-            ComboBox cmb = new ComboBox();
-            cmb.Width = 50;
-            cmb.Height = 28;
-            cmb.ItemsSource = new List<int>() { 10, 12, 14, 16, 18, 20 };
-            cmb.SelectionChanged += Cmb_SelectionChanged1;
-            cmb.Margin = new Thickness(20, 0, 5, 0);
-            cmb.SelectedIndex = 1;
-            sp.Children.Add(cmb);
-
-            bdrPicTool.Child = sp;
-            **/
         }
 
         private void cmbFontSize_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -212,18 +174,7 @@ namespace BridgeDetectHelper
                     txt.FontSize = this.m_DefaultFontSize;
                 }
             }
-            //if (this.m_AdornCanvas != null && this.m_AdornCanvas.Children.Count > 0)
-            //{
-            //    foreach (Control child in this.m_AdornCanvas.Children)
-            //    {
-            //        var cc = child as ContentControl;
-            //        TextBox txt = cc.Content as TextBox;
-            //        if (txt != null)
-            //        {
-            //            txt.FontSize = this.m_DefaultFontSize;
-            //        }
-            //    }
-            //}
+
         }
 
         private void cmbColor_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -238,18 +189,6 @@ namespace BridgeDetectHelper
                     txt.Foreground = new SolidColorBrush(this.m_DefaultFontColor);
                 }
             }
-            //if (this.m_AdornCanvas != null && this.m_AdornCanvas.Children.Count > 0)
-            //{
-            //    foreach (Control child in this.m_AdornCanvas.Children)
-            //    {
-            //        var cc = child as ContentControl;
-            //        TextBox txt = cc.Content as TextBox;
-            //        if (txt != null)
-            //        {
-            //            txt.Foreground = new SolidColorBrush(this.m_DefaultFontColor);
-            //        }
-            //    }
-            //}
 
         }
 
@@ -405,6 +344,18 @@ namespace BridgeDetectHelper
         public void ShowPictureLayout(PictureLayouts pl, List<string> img_files)
         {
             bdrPicLay.Child = null;
+            if (pl == PictureLayouts.JustOne)
+            {
+                //bdrPicTool.Visibility = Visibility.Collapsed;
+                dpPicInfo.Visibility = Visibility.Visible;
+                spJustOneTool.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                //bdrPicTool.Visibility = Visibility.Visible;
+                dpPicInfo.Visibility = Visibility.Collapsed;
+                spJustOneTool.Visibility = Visibility.Collapsed;
+            }
 
             pic_layout = PictureLayoutFactory.GetCreator(pl);
             if (pic_layout == null) return;

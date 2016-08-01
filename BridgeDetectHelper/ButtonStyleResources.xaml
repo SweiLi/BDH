@@ -120,7 +120,7 @@
     </Style>
     <!--用于图形处理工具的布局按钮-->
     <Style x:Key="btnPicLayoutStyle" TargetType="{x:Type Button}">
-        <Setter Property="Background" Value="White" />
+        <Setter Property="Background" Value="Transparent" />
         <Setter Property="Foreground" Value="Black" />
         <Setter Property="FontSize" Value="15" />
         <Setter Property="Height" Value="30"/>
@@ -128,7 +128,7 @@
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type Button}">
-                    <Border x:Name="bdr" Background="Transparent" BorderBrush="Transparent" BorderThickness="2">
+                    <Border x:Name="bdr" Background="{TemplateBinding Background}" BorderBrush="Transparent" BorderThickness="2">
                         <Grid>
                             <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                         </Grid>
@@ -236,6 +236,44 @@
                         <Trigger Property="IsPressed" Value="True">
                             <Setter TargetName="bdr" Property="BorderBrush" Value="#2e7d32"/>
                             <Setter Property="Background" Value="#1B5E20" />
+                            <Setter Property="Foreground" Value="White" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--用于简洁样式按钮-->
+    <Style x:Key="btnConciseStyle" TargetType="{x:Type Button}">
+        <Setter Property="Background" Value="Transparent" />
+        <Setter Property="Foreground" Value="Black" />
+        <Setter Property="FontSize" Value="15" />
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="SnapsToDevicePixels" Value="True" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border x:Name="bdr" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" 
+                            BorderThickness="{TemplateBinding BorderThickness}">
+                        <Grid>
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="bdr" Property="BorderBrush" Value="#BDBDBD"/>
+                            <Setter TargetName="bdr" Property="Background" Value="#EEEEEE" />
+                            <Setter Property="Foreground" Value="#BDBDBD"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="bdr" Property="BorderBrush" Value="#2e7d32"/>
+                            <Setter TargetName="bdr" Property="Background" Value="#66BB6A" />
+                            <Setter Property="Foreground" Value="White" />
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bdr" Property="BorderBrush" Value="#2e7d32"/>
+                            <Setter TargetName="bdr" Property="Background" Value="#1B5E20" />
                             <Setter Property="Foreground" Value="White" />
                         </Trigger>
                     </ControlTemplate.Triggers>

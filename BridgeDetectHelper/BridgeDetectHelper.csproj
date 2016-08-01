@@ -378,6 +378,12 @@
   <ItemGroup>
     <Resource Include="Icons\pic_joint.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="PicToolIcons\Cut_48.png" />
+    <Resource Include="PicToolIcons\Render_48.png" />
+    <Resource Include="PicToolIcons\Rotate_Left_48.png" />
+    <Resource Include="PicToolIcons\Rotate_Right_48.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
