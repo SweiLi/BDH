@@ -125,3 +125,16 @@ D:\桥梁检测助手\Source\Repos\BDH\BDH.Manage\bin\Debug\System.Data.SQLite.x
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Manage\obj\Debug\BDH.Manage.csprojResolveAssemblyReference.cache
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Manage\obj\Debug\BDH.Manage.dll
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Manage\obj\Debug\BDH.Manage.pdb
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Manage.dll
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Manage.pdb
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Sql.dll
+E:\08-BDHDW\BDH.Manage\bin\Debug\MdHelper.dll
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Config.dll
+E:\08-BDHDW\BDH.Manage\bin\Debug\System.Data.SQLite.dll
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Sql.pdb
+E:\08-BDHDW\BDH.Manage\bin\Debug\MdHelper.pdb
+E:\08-BDHDW\BDH.Manage\bin\Debug\BDH.Config.pdb
+E:\08-BDHDW\BDH.Manage\bin\Debug\System.Data.SQLite.xml
+E:\08-BDHDW\BDH.Manage\obj\Debug\BDH.Manage.csprojResolveAssemblyReference.cache
+E:\08-BDHDW\BDH.Manage\obj\Debug\BDH.Manage.dll
+E:\08-BDHDW\BDH.Manage\obj\Debug\BDH.Manage.pdb

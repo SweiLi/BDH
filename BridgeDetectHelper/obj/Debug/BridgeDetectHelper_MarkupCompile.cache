@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\obj\Debug\
+E:\08-BDHDW\BridgeDetectHelper\obj\Debug\
 BridgeDetectHelper
 none
 false
 DEBUG;TRACE
-D:\桥梁检测助手\Source\Repos\BDH\BridgeDetectHelper\App.xaml
+E:\08-BDHDW\BridgeDetectHelper\App.xaml
 241112150528
 
 531374252273
-20-2017138051
+202048421294
 AddBridgeWindow.xaml;AddProjectWindow.xaml;BdhPictureEditor.xaml;BridgeMgrMainPage.xaml;BridgeWindow.xaml;ButtonStyleResources.xaml;ComboBoxStyleResources.xaml;Controls\DesignerItem.xaml;DiseaseCountPage.xaml;NormalContralStyleResources.xaml;LoginWindow.xaml;MainWindow.xaml;MyWindowTitleBar.xaml;NewUserWindow.xaml;NoExistsNumImageWindow.xaml;OfficeTab.xaml;PictureEditWindow.xaml;Controls\ResizeRotateChrome.xaml;Controls\SizeChrome.xaml;PictureLayoutEditWindow.xaml;ProjectMgrMainPage.xaml;SystemMgrPage.xaml;Themes\Generic.xaml;XamlDemo.xaml;
 
 False

@@ -97,3 +97,14 @@ D:\桥梁检测助手\Source\Repos\BDH\BDH.Sql\bin\Debug\System.Data.SQLite.Linq
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Sql\obj\Debug\BDH.Sql.csprojResolveAssemblyReference.cache
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Sql\obj\Debug\BDH.Sql.dll
 D:\桥梁检测助手\Source\Repos\BDH\BDH.Sql\obj\Debug\BDH.Sql.pdb
+E:\08-BDHDW\BDH.Sql\bin\Debug\BDH.Sql.dll
+E:\08-BDHDW\BDH.Sql\bin\Debug\BDH.Sql.pdb
+E:\08-BDHDW\BDH.Sql\bin\Debug\BDH.Config.dll
+E:\08-BDHDW\BDH.Sql\bin\Debug\System.Data.SQLite.dll
+E:\08-BDHDW\BDH.Sql\bin\Debug\System.Data.SQLite.Linq.dll
+E:\08-BDHDW\BDH.Sql\bin\Debug\BDH.Config.pdb
+E:\08-BDHDW\BDH.Sql\bin\Debug\System.Data.SQLite.xml
+E:\08-BDHDW\BDH.Sql\bin\Debug\System.Data.SQLite.Linq.xml
+E:\08-BDHDW\BDH.Sql\obj\Debug\BDH.Sql.csprojResolveAssemblyReference.cache
+E:\08-BDHDW\BDH.Sql\obj\Debug\BDH.Sql.dll
+E:\08-BDHDW\BDH.Sql\obj\Debug\BDH.Sql.pdb

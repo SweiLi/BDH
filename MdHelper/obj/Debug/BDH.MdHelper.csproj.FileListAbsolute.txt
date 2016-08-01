@@ -57,3 +57,13 @@ D:\桥梁检测助手\Source\Repos\BDH\MdHelper\bin\Debug\BDH.Config.pdb
 D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
 D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\MdHelper.dll
 D:\桥梁检测助手\Source\Repos\BDH\MdHelper\obj\Debug\MdHelper.pdb
+E:\08-BDHDW\MdHelper\bin\Debug\MdHelper.dll
+E:\08-BDHDW\MdHelper\bin\Debug\MdHelper.pdb
+E:\08-BDHDW\MdHelper\bin\Debug\BDH.Config.dll
+E:\08-BDHDW\MdHelper\bin\Debug\Microsoft.Build.dll
+E:\08-BDHDW\MdHelper\bin\Debug\Microsoft.Build.Framework.dll
+E:\08-BDHDW\MdHelper\bin\Debug\Microsoft.Build.Engine.dll
+E:\08-BDHDW\MdHelper\bin\Debug\BDH.Config.pdb
+E:\08-BDHDW\MdHelper\obj\Debug\BDH.MdHelper.csprojResolveAssemblyReference.cache
+E:\08-BDHDW\MdHelper\obj\Debug\MdHelper.dll
+E:\08-BDHDW\MdHelper\obj\Debug\MdHelper.pdb
