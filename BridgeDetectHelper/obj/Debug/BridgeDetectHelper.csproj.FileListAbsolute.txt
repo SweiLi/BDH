@@ -649,3 +649,5 @@ E:\08-BDHDW\BridgeDetectHelper\obj\Debug\Themes\Generic.baml
 E:\08-BDHDW\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.g.resources
 E:\08-BDHDW\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.Properties.Resources.resources
 E:\08-BDHDW\BridgeDetectHelper\obj\Debug\BridgeDetectHelper.csproj.GenerateResource.Cache
+E:\08-BDHDW\BridgeDetectHelper\obj\Debug\PicsMgrMainPage.g.cs
+E:\08-BDHDW\BridgeDetectHelper\obj\Debug\PicsMgrMainPage.baml

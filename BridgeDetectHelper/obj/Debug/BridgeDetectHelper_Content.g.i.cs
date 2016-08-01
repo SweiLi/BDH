@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/bridge.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/pic_joint.png")]
 
 

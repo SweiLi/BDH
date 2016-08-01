@@ -117,6 +117,9 @@
       <DependentUpon>NoExistsNumImageWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="PasswordHelper.cs" />
+    <Compile Include="PicsMgrMainPage.xaml.cs">
+      <DependentUpon>PicsMgrMainPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="PictureEditWindow.xaml.cs">
       <DependentUpon>PictureEditWindow.xaml</DependentUpon>
     </Compile>
@@ -233,6 +236,10 @@
     <Page Include="OfficeTab.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PicsMgrMainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PictureEditWindow.xaml">
       <SubType>Designer</SubType>
@@ -362,6 +369,14 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Icons\bridge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\pic_add.png" />
+    <Resource Include="Icons\pic_edit.png" />
+    <Resource Include="Icons\pic_summary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\pic_joint.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
